@@ -1,1 +1,2 @@
-Input of developer_2
+Input of developer_1
+We keep developer_1 input. Developer_2 solved the conflict.
